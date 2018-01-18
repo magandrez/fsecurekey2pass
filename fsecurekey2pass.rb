@@ -14,7 +14,6 @@
 require "optparse"
 require "logger"
 require "json"
-require "pry"
 require "open3"
 
 options = {}
