@@ -9,7 +9,7 @@ This script aims to migrate any number of credentials from F-Secure's commercial
 ## Requirements
 
 1. Ruby > 1.8 (currently tested with Ruby 2.4.1)
-2. F-Secure KEY export file. (
+2. F-Secure KEY export file. (.FSK)
 
 ## Usage
 
